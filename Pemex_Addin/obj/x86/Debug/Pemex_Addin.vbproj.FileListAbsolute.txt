@@ -1,0 +1,9 @@
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\bin\Debug\Pemex_Addin.dll
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\bin\Debug\Pemex_Addin.pdb
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\bin\Debug\Pemex_Addin.xml
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\bin\Debug\Cadcorp.SIS.GisLink.Library.dll
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\obj\x86\Debug\Pemex_Addin.Resources.resources
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\obj\x86\Debug\Pemex_Addin.vbproj.GenerateResource.Cache
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\obj\x86\Debug\Pemex_Addin.dll
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\obj\x86\Debug\Pemex_Addin.xml
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Pemex_Addin\Pemex_Addin\obj\x86\Debug\Pemex_Addin.pdb
